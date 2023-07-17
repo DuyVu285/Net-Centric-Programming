@@ -1,0 +1,4 @@
+{
+    "go.buildFlags": ["-tags", "sqlite_omit_load_extension"]
+  }
+  

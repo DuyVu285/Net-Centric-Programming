@@ -1,0 +1,10 @@
+banana: a long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe
+computer: an electronic device that can store, retrieve, and process data
+mountain: a large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill
+programming: the process of designing, writing, testing, and maintaining the source code of computer software
+university: an educational institution designed for instruction, examination, or both, of students in many branches of advanced learning
+basketball: a game played between two teams of five players in which goals are scored by throwing a ball through a netted hoop fixed above each end of the court
+television: a device that receives television signals and reproduces them on a screen; a television set
+elephant: a very large animal with thick grey skin, large ears, and a long trunk which it uses to pick things up
+watermelon: a large oblong or round fruit with a green rind and sweet watery red or occasionally yellowish pulp
+crocodile: a large predatory semiaquatic reptile with long jaws, and a tail flattened sideways, that typically inhabits watercourses
